@@ -1,8 +1,18 @@
 # Customer Life Time Value Analysis
 
+##Table of content
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Insights](#insights)
+- [Recommendations](#recommendations)
+
+
 ### Project Overview
 
 This project aims to categorize customers based on their potential long-term value to a the company, so that the company can design personalized offers and bundled packages that resonate with each segment.
+
+<img width="561" alt="CLV Analysis" src="https://github.com/user-attachments/assets/b876bb3d-9b58-4296-b5e6-a7735fc5881f">
 
 
 ### Data Sources
@@ -97,5 +107,3 @@ Low-Value Customers:
 - For high value customers, develop exclusive offers or loyalty programs for high-value customers. Enhance the tech support and consider personalized communication and offers to retain them.
 
 - Overall, review and possibly expand the range of plan types and features. Introduce flexible plans that can cater to different customer segments' needs, potentially increasing the conversion rate to higher-value plans.
-
-
