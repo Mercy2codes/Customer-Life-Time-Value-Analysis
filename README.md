@@ -12,8 +12,6 @@
 
 This project aims to categorize customers based on their potential long-term value to a the company, so that the company can design personalized offers and bundled packages that resonate with each segment.
 
-<img width="561" alt="CLV Analysis" src="https://github.com/user-attachments/assets/b876bb3d-9b58-4296-b5e6-a7735fc5881f">
-
 
 ### Data Sources
 
